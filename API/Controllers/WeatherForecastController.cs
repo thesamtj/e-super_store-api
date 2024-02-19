@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace e_super_store_api.Controllers
+namespace API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

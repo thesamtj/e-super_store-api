@@ -1,4 +1,4 @@
-namespace e_super_store_api
+namespace API
 {
     public class WeatherForecast
     {
